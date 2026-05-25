@@ -1,10 +1,16 @@
-# Ciao, sono Stef-2612! 👋
 <p align="center">
-  <img width="350" alt="Ostrich, mouth open" src="https://github.com/user-attachments/assets/fcc417c6-640f-4e1c-b90a-c50f8b24bdd3" />
+  <img src="https://github.com/user-attachments/assets/fcc417c6-640f-4e1c-b90a-c50f8b24bdd3" 
+       alt="Ostrich, mouth open" 
+       width="200" 
+       height="200" 
+       style="border-radius: 50%; object-fit: cover; border: 3px solid #30363d;" />
 </p>
 
+<h1 align="center">Ciao, sono Stef-2612! 👋</h1>
 
-Benvenuto sul mio profilo GitHub! Sono un appassionato di sviluppo software e tecnologia, attualmente impegnato a migliorare le mie competenze e a strutturare nuovi progetti.
+<p align="center">
+  Benvenuto sul mio profilo GitHub! Sono un appassionato di sviluppo software e tecnologia, attualmente impegnato a migliorare le mie competenze e a strutturare nuovi progetti.
+</p>
 
 ---
 
