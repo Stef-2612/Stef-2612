@@ -6,7 +6,7 @@
        style="border-radius: 50%; object-fit: cover; border: 3px solid #30363d;" />
 </p>
 
-<h1 align="center">Ciao, sono Stef-2612! 👋</h1>
+<h1 align="center">Ciao, sono Stefano! 👋</h1>
 
 <p align="center">
   Benvenuto sul mio profilo GitHub! Sono un appassionato di sviluppo software e tecnologia, attualmente impegnato a migliorare le mie competenze e a strutturare nuovi progetti.
