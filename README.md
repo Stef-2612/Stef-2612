@@ -1,4 +1,5 @@
 # Ciao, sono Stef-2612! 👋
+https://share.google/jJAeqF5wRszO4NRFs
 
 Benvenuto sul mio profilo GitHub! Sono un appassionato di sviluppo software e tecnologia, attualmente impegnato a migliorare le mie competenze e a strutturare nuovi progetti.
 
