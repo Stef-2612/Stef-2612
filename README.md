@@ -1,5 +1,5 @@
 # Ciao, sono Stef-2612! 👋
-<img width="960" height="1280" alt="Ostrich,_mouth_open" src="https://github.com/user-attachments/assets/fcc417c6-640f-4e1c-b90a-c50f8b24bdd3" />
+<img width="500" height="500" alt="Ostrich,_mouth_open" src="https://github.com/user-attachments/assets/fcc417c6-640f-4e1c-b90a-c50f8b24bdd3" />
 
 
 Benvenuto sul mio profilo GitHub! Sono un appassionato di sviluppo software e tecnologia, attualmente impegnato a migliorare le mie competenze e a strutturare nuovi progetti.
