@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/fcc417c6-640f-4e1c-b90a-c50f8b24bdd3" 
-       alt="Ostrich, mouth open" 
-       width="200" 
-       height="200" 
-       style="border-radius: 50%; object-fit: cover; border: 3px solid #30363d;" />
-</p>
 
 <h1 align="center">Ciao, sono Stefano! 👋</h1>
 
